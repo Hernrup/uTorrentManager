@@ -1,0 +1,36 @@
+2012-12-20 19:15:51,137 [10] DEBUG UTorrentManager.Manager [(null)] - Hello World!
+2012-12-20 19:15:51,157 [10] INFO  UTorrentManager.Manager [(null)] - I'm a simple log4net tutorial.
+2012-12-20 19:15:51,157 [10] WARN  UTorrentManager.Manager [(null)] - ... better be careful ...
+2012-12-20 19:15:51,157 [10] ERROR UTorrentManager.Manager [(null)] - ruh-roh: an error occurred
+2012-12-20 19:15:51,157 [10] FATAL UTorrentManager.Manager [(null)] - OMG we're dooooooomed!
+2012-12-20 19:26:30,360 [10] DEBUG UTorrentManager.Manager [(null)] - Hello World!
+2012-12-20 19:26:30,379 [10] INFO  UTorrentManager.Manager [(null)] - I'm a simple log4net tutorial.
+2012-12-20 19:26:30,380 [10] WARN  UTorrentManager.Manager [(null)] - ... better be careful ...
+2012-12-20 19:26:30,380 [10] ERROR UTorrentManager.Manager [(null)] - ruh-roh: an error occurred
+2012-12-20 19:26:30,380 [10] FATAL UTorrentManager.Manager [(null)] - OMG we're dooooooomed!
+2012-12-20 19:27:05,525 [9] DEBUG UTorrentManager.Manager [(null)] - Hello World!
+2012-12-20 19:27:05,544 [9] INFO  UTorrentManager.Manager [(null)] - I'm a simple log4net tutorial.
+2012-12-20 19:27:05,544 [9] WARN  UTorrentManager.Manager [(null)] - ... better be careful ...
+2012-12-20 19:27:05,544 [9] ERROR UTorrentManager.Manager [(null)] - ruh-roh: an error occurred
+2012-12-20 19:27:05,544 [9] FATAL UTorrentManager.Manager [(null)] - OMG we're dooooooomed!
+2012-12-20 19:28:14,656 [8] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:28:52,612 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:28:52,632 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:29:10,770 [9] INFO  UTorrentManager.Manager [(null)] - 
+2012-12-20 19:29:10,770 [9] INFO  UTorrentManager.Manager [(null)] - 
+2012-12-20 19:29:26,335 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:29:26,354 [10] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:29:26,355 [10] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:29:26,355 [10] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:32:15,758 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:32:15,777 [10] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:32:15,778 [10] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:32:15,778 [10] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:33:19,450 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:33:19,469 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:33:19,469 [9] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:33:19,469 [9] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:34:04,790 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:34:04,809 [10] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:34:04,809 [10] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:34:04,809 [10] INFO  UTorrentManager.Manager [(null)] - qwd

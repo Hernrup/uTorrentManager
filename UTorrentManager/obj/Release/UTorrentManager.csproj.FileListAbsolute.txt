@@ -1,0 +1,10 @@
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\UTorrentManager.dll
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\UTorrentManager.pdb
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\log4net.dll
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\UTorrentAPI.dll
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\UTorrentAPI.pdb
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\UTorrentAPI.xml
+F:\dev\uTorrentManager\UTorrentManager\bin\Release\log4net.xml
+F:\dev\uTorrentManager\UTorrentManager\obj\Release\UTorrentManager.csprojResolveAssemblyReference.cache
+F:\dev\uTorrentManager\UTorrentManager\obj\Release\UTorrentManager.dll
+F:\dev\uTorrentManager\UTorrentManager\obj\Release\UTorrentManager.pdb

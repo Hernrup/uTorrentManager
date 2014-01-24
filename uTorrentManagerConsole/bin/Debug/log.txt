@@ -1,0 +1,266 @@
+2012-12-20 19:34:35,597 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:34:35,617 [10] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:34:35,617 [10] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:34:35,617 [10] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:35:33,171 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:35:33,190 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:35:33,190 [9] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:35:33,190 [9] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:36:32,138 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:36:32,161 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:36:32,162 [9] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:36:32,163 [9] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:37:29,077 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:37:29,102 [10] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:37:29,103 [10] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:37:29,104 [10] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:38:19,927 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:38:19,948 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:38:19,949 [9] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:38:19,950 [9] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:39:07,887 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:39:07,909 [9] INFO  UTorrentManager.Manager [(null)] - http://192.168.0.99:8083/gui/
+2012-12-20 19:39:07,910 [9] INFO  UTorrentManager.Manager [(null)] - admin
+2012-12-20 19:39:07,911 [9] INFO  UTorrentManager.Manager [(null)] - qwd
+2012-12-20 19:41:29,818 [8] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 19:41:29,840 [8] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 19:41:29,841 [8] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 19:41:29,842 [8] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 19:41:30,245 [8] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 19:41:30,246 [8] DEBUG UTorrentManager.Manager [(null)] - Run loop started...
+2012-12-20 19:41:33,166 [8] INFO  UTorrentManager.Manager [(null)] - Nbr of torrents: 3
+2012-12-20 20:00:03,605 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 20:00:03,626 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 20:00:03,627 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 20:00:03,627 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 20:00:04,020 [10] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 20:00:04,021 [10] DEBUG UTorrentManager.Manager [(null)] - Run loop started...
+2012-12-20 20:00:06,818 [10] INFO  UTorrentManager.Manager [(null)] - Nbr of torrents: 3
+2012-12-20 20:39:18,405 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 20:39:18,425 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 20:39:18,426 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 20:39:18,426 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 20:39:18,816 [9] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 20:39:18,817 [9] DEBUG UTorrentManager.Manager [(null)] - Run loop started...
+2012-12-20 20:39:21,631 [9] INFO  UTorrentManager.Manager [(null)] - Nbr of torrents: 3
+2012-12-20 23:06:42,624 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:06:42,645 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:06:42,645 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:06:42,646 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:06:43,039 [10] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:06:43,040 [10] DEBUG UTorrentManager.Manager [(null)] - Run loop started...
+2012-12-20 23:06:45,827 [10] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:06:45,830 [10] INFO  UTorrentManager.Manager [(null)] - Removing: Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4
+2012-12-20 23:06:45,830 [10] INFO  UTorrentManager.Manager [(null)] - Removing: How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv
+2012-12-20 23:06:45,830 [10] INFO  UTorrentManager.Manager [(null)] - Removing: NCIS.S10E10.HDTV.x264-LOL.mp4
+2012-12-20 23:07:33,905 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:07:33,926 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:07:33,926 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:07:33,926 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:07:34,313 [9] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:07:34,313 [9] DEBUG UTorrentManager.Manager [(null)] - Run loop started...
+2012-12-20 23:07:37,093 [9] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:07:37,095 [9] INFO  UTorrentManager.Manager [(null)] - Removing: Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4
+2012-12-20 23:07:37,095 [9] INFO  UTorrentManager.Manager [(null)] - Removing: How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv
+2012-12-20 23:07:37,095 [9] INFO  UTorrentManager.Manager [(null)] - Removing: NCIS.S10E10.HDTV.x264-LOL.mp4
+2012-12-20 23:22:00,034 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:22:00,055 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:22:00,055 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:22:00,055 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:22:00,447 [10] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:27:22,647 [10] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:27:22,668 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:27:22,668 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:27:22,669 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:27:23,058 [10] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:27:28,069 [6] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:27:28
+2012-12-20 23:27:28,069 [6] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:27:30,865 [6] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:27:30,867 [6] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:27:30,868 [6] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:27:36,879 [13] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:27:36
+2012-12-20 23:27:36,879 [13] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:27:36,882 [13] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:27:36,884 [13] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:27:36,884 [13] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:27:43,884 [6] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:27:43
+2012-12-20 23:27:43,884 [6] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:27:43,887 [6] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:27:43,892 [6] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:27:43,892 [6] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:27:51,896 [6] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:27:51
+2012-12-20 23:27:51,896 [6] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:27:51,899 [6] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:27:51,901 [6] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:27:51,901 [6] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:29:13,974 [9] DEBUG UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:29:13,994 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:29:13,994 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:29:13,994 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:29:14,385 [9] DEBUG UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:29:19,425 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:29:19
+2012-12-20 23:29:19,427 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:29:22,235 [11] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:29:22,237 [11] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:29:22,237 [11] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:22,237 [11] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:22,237 [11] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:29:22,237 [11] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:29:28,245 [13] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:29:28
+2012-12-20 23:29:28,245 [13] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:29:28,248 [13] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:29:28,250 [13] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:29:28,251 [13] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:28,251 [13] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:28,251 [13] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:29:28,251 [13] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:29:35,251 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:29:35
+2012-12-20 23:29:35,251 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:29:35,254 [11] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:29:35,256 [11] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:29:35,257 [11] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:35,257 [11] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:29:35,257 [11] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:29:35,258 [11] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:37:00,612 [8] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:37:00,632 [8] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:37:00,632 [8] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:37:00,632 [8] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:37:01,024 [8] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:37:01,042 [10] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:01
+2012-12-20 23:37:01,043 [10] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:01,048 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:01
+2012-12-20 23:37:01,048 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:01,063 [12] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:01
+2012-12-20 23:37:01,064 [12] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:01,080 [13] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:01
+2012-12-20 23:37:01,080 [13] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:02,066 [18] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:02
+2012-12-20 23:37:02,066 [18] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:02,598 [19] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:02
+2012-12-20 23:37:02,598 [19] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:03,130 [20] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:03
+2012-12-20 23:37:03,130 [20] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:03,662 [21] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:37:03
+2012-12-20 23:37:03,662 [21] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:37:03,928 [20] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 4
+2012-12-20 23:37:03,931 [20] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:37:03,937 [20] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:37:03,951 [20] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:37:03,952 [20] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:37:03,952 [20] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:37:03,952 [20] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:38:19,532 [9] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:38:19,553 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:38:19,553 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:38:19,553 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:38:19,553 [9] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:38:19,942 [9] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:40:25,941 [10] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:40:25,961 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:40:25,961 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:40:25,961 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:40:25,961 [10] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:40:33,124 [10] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:40:33,141 [12] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:33
+2012-12-20 23:40:33,142 [12] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:40:50,802 [10] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:40:50,822 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:40:50,822 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:40:50,822 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:40:50,823 [10] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:40:51,220 [10] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:40:51,236 [6] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:51
+2012-12-20 23:40:51,237 [6] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:51,243 [12] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:51
+2012-12-20 23:40:51,243 [12] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:51,258 [13] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:51
+2012-12-20 23:40:51,259 [13] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:51,276 [14] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:51
+2012-12-20 23:40:51,277 [14] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:52,261 [18] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:52
+2012-12-20 23:40:52,261 [18] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:52,793 [19] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:52
+2012-12-20 23:40:52,793 [19] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:53,326 [20] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:53
+2012-12-20 23:40:53,326 [20] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:53,858 [21] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:40:53
+2012-12-20 23:40:53,858 [21] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:40:54,112 [18] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 4
+2012-12-20 23:40:54,112 [21] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:40:54,131 [21] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:40:54,132 [21] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:40:54,132 [21] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:40:54,134 [21] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:40:54,132 [18] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:40:54,134 [21] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:40:54,134 [18] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:41:16,873 [10] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:41:16,894 [10] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:41:16,894 [10] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:41:16,894 [10] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:41:16,894 [10] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:41:17,289 [10] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:41:22,313 [6] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:41:22
+2012-12-20 23:41:22,314 [6] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:41:25,095 [6] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:41:25,097 [6] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:41:25,097 [6] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:41:25,097 [6] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:41:25,097 [6] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:41:25,097 [6] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:44:36,447 [9] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:44:36,467 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:44:36,467 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:44:36,468 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:44:36,468 [9] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:44:36,860 [9] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:44:41,887 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:44:41
+2012-12-20 23:44:41,888 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:44:44,695 [11] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:44:44,697 [11] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:44:44,697 [11] INFO  UTorrentManager.Manager [(null)] - Removing: Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4
+2012-12-20 23:44:44,698 [11] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:44:44,698 [11] INFO  UTorrentManager.Manager [(null)] - Removing: How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv
+2012-12-20 23:44:44,698 [11] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:44:44,698 [11] INFO  UTorrentManager.Manager [(null)] - Removing: NCIS.S10E10.HDTV.x264-LOL.mp4
+2012-12-20 23:44:44,698 [11] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:44:44,698 [11] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:47:01,762 [9] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:47:01,783 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:47:01,783 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:47:01,783 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:47:01,783 [9] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:47:02,173 [9] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:47:07,199 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:47:07
+2012-12-20 23:47:07,200 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:47:10,025 [11] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:47:10,027 [11] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:47:10,027 [11] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:47:10,027 [11] INFO  UTorrentManager.Manager [(null)] - Removing: How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv
+2012-12-20 23:47:10,027 [11] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:47:10,028 [11] INFO  UTorrentManager.Manager [(null)] - Removing: NCIS.S10E10.HDTV.x264-LOL.mp4
+2012-12-20 23:47:10,028 [11] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:47:10,028 [11] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:48:08,890 [9] INFO  UTorrentManager.Manager [(null)] - Loading...
+2012-12-20 23:48:08,911 [9] INFO  UTorrentManager.Manager [(null)] - Uri: http://192.168.0.99:8083/gui/
+2012-12-20 23:48:08,911 [9] INFO  UTorrentManager.Manager [(null)] - Username: admin
+2012-12-20 23:48:08,911 [9] INFO  UTorrentManager.Manager [(null)] - Password: qwd
+2012-12-20 23:48:08,911 [9] INFO  UTorrentManager.Manager [(null)] - Interval: 60000
+2012-12-20 23:48:09,305 [9] INFO  UTorrentManager.Manager [(null)] - Loaded
+2012-12-20 23:48:14,331 [11] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:48:14
+2012-12-20 23:48:14,333 [11] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:48:17,140 [11] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 3
+2012-12-20 23:48:17,142 [11] DEBUG UTorrentManager.Manager [(null)] - Checking Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4. Status: Error, FinishedOrStopped
+2012-12-20 23:48:17,142 [11] INFO  UTorrentManager.Manager [(null)] - Removing: Dont.Trust.the.Bitch.in.Apartment.23.S02E07.HDTV.x264-LOL.mp4
+2012-12-20 23:48:17,149 [11] DEBUG UTorrentManager.Manager [(null)] - Checking How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:48:17,149 [11] INFO  UTorrentManager.Manager [(null)] - Removing: How.I.Met.Your.Mother.S08E11E12.720p.HDTV.X264-DIMENSION.mkv
+2012-12-20 23:48:17,151 [11] DEBUG UTorrentManager.Manager [(null)] - Checking NCIS.S10E10.HDTV.x264-LOL.mp4. Status: Started, Queued, FinishedOrStopped
+2012-12-20 23:48:17,151 [11] INFO  UTorrentManager.Manager [(null)] - Removing: NCIS.S10E10.HDTV.x264-LOL.mp4
+2012-12-20 23:48:17,153 [11] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:48:17,153 [11] INFO  UTorrentManager.Manager [(null)] - Sleeping
+2012-12-20 23:49:22,151 [13] INFO  UTorrentManager.Manager [(null)] - Timer triggered at: 2012-12-20 23:49:22
+2012-12-20 23:49:22,151 [13] INFO  UTorrentManager.Manager [(null)] - Check started
+2012-12-20 23:49:22,174 [13] INFO  UTorrentManager.Manager [(null)] - Number of torrents init: 0
+2012-12-20 23:49:22,177 [13] INFO  UTorrentManager.Manager [(null)] - Check ended
+2012-12-20 23:49:22,177 [13] INFO  UTorrentManager.Manager [(null)] - Sleeping

@@ -1,0 +1,13 @@
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\uTorrentManagerConsole.exe.config
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\uTorrentManagerConsole.exe
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\uTorrentManagerConsole.pdb
+F:\dev\uTorrentManager\uTorrentManagerConsole\obj\Debug\uTorrentManagerConsole.csprojResolveAssemblyReference.cache
+F:\dev\uTorrentManager\uTorrentManagerConsole\obj\Debug\uTorrentManagerConsole.exe
+F:\dev\uTorrentManager\uTorrentManagerConsole\obj\Debug\uTorrentManagerConsole.pdb
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\UTorrentManager.dll
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\UTorrentAPI.dll
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\log4net.dll
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\UTorrentManager.pdb
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\UTorrentAPI.pdb
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\UTorrentAPI.xml
+F:\dev\uTorrentManager\uTorrentManagerConsole\bin\Debug\log4net.xml

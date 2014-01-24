@@ -1,0 +1,15 @@
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\uTorrentManagerService.exe.config
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\uTorrentManagerService.exe
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\uTorrentManagerService.pdb
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Release\uTorrentManagerService.csprojResolveAssemblyReference.cache
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Release\uTorrentManagerService.exe
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Release\uTorrentManagerService.pdb
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\log4net.dll
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\UTorrentManager.dll
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\UTorrentAPI.dll
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\UTorrentManager.pdb
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\log4net.xml
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\UTorrentAPI.pdb
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Release\UTorrentAPI.xml
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Release\uTorrentManagerService.ProjectInstaller.resources
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Release\UTorrentManagerService.csproj.GenerateResource.Cache

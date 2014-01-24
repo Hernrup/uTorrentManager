@@ -1,0 +1,6 @@
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Debug\uTorrentManagerService.exe.config
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Debug\uTorrentManagerService.exe
+F:\dev\uTorrentManager\uTorrentManagerService\bin\Debug\uTorrentManagerService.pdb
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Debug\uTorrentManagerService.csprojResolveAssemblyReference.cache
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Debug\uTorrentManagerService.exe
+F:\dev\uTorrentManager\uTorrentManagerService\obj\Debug\uTorrentManagerService.pdb

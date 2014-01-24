@@ -1,0 +1,21 @@
+2012-12-21 14:11:28,950 INFO  - Loading...
+2012-12-21 14:23:42,726 INFO  - Loading...
+2012-12-21 14:25:06,685 INFO  - Loading...
+2012-12-21 14:26:24,993 INFO  - Loading...
+2012-12-21 14:35:27,762 INFO  - Loading...
+2012-12-21 14:35:27,770 INFO  - Uri: http://192.168.0.99:8083/gui/
+2012-12-21 14:35:27,771 INFO  - Username: admin
+2012-12-21 14:35:27,772 INFO  - Password: qwd
+2012-12-21 14:35:27,772 INFO  - Interval: 10800000
+2012-12-21 14:35:28,090 INFO  - Loaded
+2012-12-21 15:52:41,763 INFO  - Loading...
+2012-12-21 15:52:41,771 INFO  - Uri: http://192.168.0.99:8083/gui/
+2012-12-21 15:52:41,771 INFO  - Username: admin
+2012-12-21 15:52:41,771 INFO  - Password: qwd
+2012-12-21 15:52:41,772 INFO  - Interval: 10800000
+2012-12-21 15:52:42,246 INFO  - Loaded
+2012-12-21 15:52:42,247 INFO  - ----uTorrentCopyRequest triggered----
+2012-12-21 15:52:42,247 DEBUG - dir: F:\Download\_data\[ www.TorrentDay.com ] - Futurama.S07E13.PROPER.HDTV.x264-EVOLVE
+2012-12-21 15:52:42,247 DEBUG - file: First Read This Guide.txt
+2012-12-21 15:52:42,247 DEBUG - isMulti: True
+2012-12-21 15:52:42,247 DEBUG - targetPath: D:\Download\import
